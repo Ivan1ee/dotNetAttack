@@ -1,5 +1,9 @@
 # 1. 新书速递，《.NET安全攻防指南》重磅来袭！
 
+扫码加关注或者打开原文地址：https://mp.weixin.qq.com/s/lNN7kjPeQop-ERN6Y3jY5w
+
+![image](https://github.com/user-attachments/assets/b65bc869-1aa0-448c-a1b8-75390a1ff4f8)
+
 dotNet安全矩阵团队倾力打造.NET安全领域的里程碑之作——《.NET安全攻防指南》正式上线，全书共计25章，总计1010页，分为上下册，横跨.NET Web代码审计与红队渗透两大领域。上册深入剖析.NET Web安全审计的核心技术，帮助读者掌握漏洞发现与修复的精髓；下册则聚焦于.NET逆向工程与攻防对抗的实战技巧，揭秘最新的对抗策略与技术方法。这套书将为.NET安全研究者和实战攻防人员，搭建一座从入门到精通的桥梁，助力读者在.NET安全领域走得更远、更深！
 
 ![image](https://github.com/user-attachments/assets/e0887bc2-c33a-480d-8767-576f2eb430d6)
