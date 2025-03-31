@@ -129,3 +129,9 @@ dotNet安全矩阵团队倾力打造.NET安全领域的里程碑之作——《.
 同时，欢迎大伙扫码添加 @ken 的微信，获取更多有关本书的详细内容！
 
 ![image](https://github.com/user-attachments/assets/79f12c3c-f3be-464d-bccb-cddd4e14d671)
+
+
+# 更新日志
+
+- 2025-03-30 
+  - [更新 | 实战+分析 | .NET 分布式事务反序列化漏洞插件 ](https://mp.weixin.qq.com/s/sh9EY2AvRLCepoT8NOByJA)
