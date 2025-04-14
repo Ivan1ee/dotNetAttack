@@ -133,5 +133,7 @@ dotNet安全矩阵团队倾力打造.NET安全领域的里程碑之作——《.
 
 # 更新日志
 
+- 2025-04-03 
+  - [.NET 四种方法上传 web.config 绕过限制实现RCE](https://mp.weixin.qq.com/s/OzxeZrhmvbTMbSsrJEl4LA)
 - 2025-03-30 
-  - [更新 | 实战+分析 | .NET 分布式事务反序列化漏洞插件 ](https://mp.weixin.qq.com/s/sh9EY2AvRLCepoT8NOByJA)
+  - [更新 | 实战+分析 | .NET 分布式事务反序列化漏洞插件](https://mp.weixin.qq.com/s/sh9EY2AvRLCepoT8NOByJA)
