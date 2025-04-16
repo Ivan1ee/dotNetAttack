@@ -132,7 +132,8 @@ dotNet安全矩阵团队倾力打造.NET安全领域的里程碑之作——《.
 
 
 # 更新日志
-
+- 2025-04-09 
+  - [实战上传 DLL 型 WebShell，一文详解 .NET 程序集 VS C++ 动态链接库的区别](https://mp.weixin.qq.com/s/OHHygg80N3S1Mkz3UrVJ_g)
 - 2025-04-03 
   - [.NET 四种方法上传 web.config 绕过限制实现RCE](https://mp.weixin.qq.com/s/OzxeZrhmvbTMbSsrJEl4LA)
 - 2025-03-30 
