@@ -132,6 +132,8 @@ dotNet安全矩阵团队倾力打造.NET安全领域的里程碑之作——《.
 
 
 # 更新日志
+- 2025-05-07 
+  - [.NET看不见的武器，通过隐形字符绕过WebShell检测](https://mp.weixin.qq.com/s/9TzhWccroo55SJi7UbYccQ)
 - 2025-04-09 
   - [实战上传 DLL 型 WebShell，一文详解 .NET 程序集 VS C++ 动态链接库的区别](https://mp.weixin.qq.com/s/OHHygg80N3S1Mkz3UrVJ_g)
 - 2025-04-03 
