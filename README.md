@@ -132,6 +132,8 @@ dotNet安全矩阵团队倾力打造.NET安全领域的里程碑之作——《.
 
 
 # 更新日志
+- 2025-05-14 
+  - [穿越边界：通过 AppDomain 实现 .NET 程序隔离绕过](https://mp.weixin.qq.com/s/Duds3Bv_hOTR9m9o88maZw)
 - 2025-05-07 
   - [.NET看不见的武器，通过隐形字符绕过WebShell检测](https://mp.weixin.qq.com/s/9TzhWccroo55SJi7UbYccQ)
 - 2025-04-09 
